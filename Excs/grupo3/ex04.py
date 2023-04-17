@@ -2,6 +2,7 @@
 que apresente o menor deles."""
 maior = 0
 menor = 999999
+variave = 23
 for i in range(0,30):
     nr = int(input("Introduza um número inteiro: "))
     if(nr<menor):
@@ -11,7 +12,7 @@ for i in range(0,30):
 
 print(f"O maior número é {maior} e o menor é {menor}")
 
-
+print(variave)
 
 
 
