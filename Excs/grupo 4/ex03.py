@@ -9,4 +9,3 @@ custo_impostos = custo * 0.45
 custo_final = custo + custo_distr + custo_impostos
 
 print(f"O custo final ao consumidor é de {custo_final}")
-
