@@ -6,8 +6,3 @@ b = float(input('Digite o valor do cateto adjacente: '))
 c = (a**2 + b**2)**(1/2) 
 
 print(f"A medida da hipotenusa é de {c}")
-
-
-
-
-
